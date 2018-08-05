@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+    font-size: 32px;
+}
+.pomodoro-estimate{
+    color:yellow;
+    font-size: 17px;
+    border-radius: 20px;
+    font-weight: bolder;
+    background-color:#8282CB;
+}
+#add-new-todo-button{
+    font-size: 20px;
+    color:#FFEC92;
+    background-color:#6CB7BB;
+}
