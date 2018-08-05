@@ -18,3 +18,8 @@ h2{
     color:orange;
     font-size: 25px;
 }
+#my-name{
+    position:absolute;
+    top:0;
+    right:0;
+}
